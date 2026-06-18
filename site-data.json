@@ -1,0 +1,327 @@
+{
+  "business": {
+    "name": "Full Service Electrician Contractors",
+    "shortName": "Full Service Electrician",
+    "tagline": "Dallas's Trusted Electrical Experts Since 1998",
+    "niche": "Electrician",
+    "phone": "(469) 334-2759",
+    "address": "8203 Southwestern Blvd, Dallas, TX 75206",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7am-7pm, Sat 8am-5pm, Sun Closed",
+    "ctaLabel": "Schedule Service"
+  },
+  "seo": {
+    "title": "Full Service Electrician Contractors | Dallas Electricians | (469) 334-2759",
+    "description": "Full Service Electrician Contractors in Dallas, TX offers residential and commercial electrical services. 5-star rated, licensed, and insured. Call (469) 334-2759 for fast, reliable service."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Premier Electrical Contractor",
+      "headline": "Expert Electrical Solutions for Your Home & Business",
+      "subheadline": "Licensed, insured, and trusted by thousands. From emergency repairs to full rewiring, we deliver safe, code-compliant work with a 100% satisfaction guarantee.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "Call (469) 334-2759"
+    },
+    "stats": [
+      {
+        "value": "25+",
+        "label": "Years of Experience"
+      },
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      },
+      {
+        "value": "10,000+",
+        "label": "Jobs Completed"
+      },
+      {
+        "value": "98%",
+        "label": "Satisfaction Rate"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Residential Electrical Services",
+        "title": "Safe & Reliable Home Electrical Solutions",
+        "body": "Your family's safety is our top priority. We provide comprehensive residential electrical services, from simple outlet repairs to complete panel upgrades. Our electricians are background-checked, drug-tested, and trained on the latest codes.",
+        "bullets": [
+          "Panel upgrades & replacements",
+          "Whole-home surge protection",
+          "Ceiling fan & light installation",
+          "Wiring for new construction & remodels"
+        ],
+        "reverse": false,
+        "cardLabel": "Why Choose Us",
+        "cardTitle": "Licensed & Insured",
+        "cardBody": "All our electricians are licensed by the Texas Department of Licensing and Regulation, fully insured, and bonded for your peace of mind."
+      },
+      {
+        "eyebrow": "Commercial Electrical Services",
+        "title": "Powering Dallas Businesses",
+        "body": "Minimize downtime with our fast, professional commercial electrical services. We work with property managers, retail stores, restaurants, and offices to keep your operations running smoothly. Emergency response available 24/7.",
+        "bullets": [
+          "Tenant build-outs & renovations",
+          "Data cabling & network setup",
+          "Emergency lighting & exit signs",
+          "Energy-efficient LED retrofits"
+        ],
+        "reverse": true,
+        "cardLabel": "Commercial Clients",
+        "cardTitle": "Business Hours Flexibility",
+        "cardBody": "We schedule after-hours and weekend work to avoid disrupting your business. Our team works efficiently to get you back online fast."
+      }
+    ],
+    "whyTitle": "Why Dallas Trusts Full Service Electrician Contractors",
+    "whyChooseUs": [
+      {
+        "title": "5-Star Rated Service",
+        "description": "We maintain a perfect 5.0 rating on Google and Yelp. Our commitment to quality and customer care shows in every job."
+      },
+      {
+        "title": "Upfront Pricing",
+        "description": "No hidden fees, no surprises. We provide detailed estimates before any work begins. You approve the price before we start."
+      },
+      {
+        "title": "Licensed & Insured",
+        "description": "Our team is fully licensed, bonded, and insured. We meet all Texas electrical codes and safety standards."
+      },
+      {
+        "title": "Satisfaction Guaranteed",
+        "description": "We stand behind our work with a 100% satisfaction guarantee. If you're not happy, we'll make it right."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Full Service Electrician rewired our entire 1920s home. They were professional, punctual, and left everything spotless. Highly recommend!",
+        "author": "Sarah M.",
+        "role": "Homeowner, Dallas"
+      },
+      {
+        "quote": "We use them for all our commercial properties. Their response time is incredible, and the quality is always top-notch.",
+        "author": "James L.",
+        "role": "Property Manager, Dallas"
+      },
+      {
+        "quote": "Called for an emergency outage at 2 AM. They arrived within 30 minutes and had power restored by 3 AM. Amazing service.",
+        "author": "Maria G.",
+        "role": "Restaurant Owner, Dallas"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Started?",
+      "subheadline": "Call us or book online for a free estimate. Same-day service available in most areas.",
+      "primaryCta": "Book Online",
+      "secondaryCta": "Call (469) 334-2759"
+    }
+  },
+  "servicesPage": {
+    "intro": "We offer a full range of electrical services for residential and commercial clients in Dallas, TX. Every job is backed by our 5-star reputation and 25+ years of experience."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Electrical Panel Upgrades",
+      "shortDescription": "Upgrade your electrical panel for safety, capacity, and code compliance.",
+      "longDescription": "Your electrical panel is the heart of your home's electrical system. If you have flickering lights, tripping breakers, or need to add new appliances, it may be time for an upgrade. Our licensed electricians install top-brand panels (Square D, Siemens, Eaton) with proper load calculations and permits.",
+      "benefits": [
+        "Increased electrical capacity for modern appliances",
+        "Enhanced safety with arc-fault and ground-fault protection",
+        "Reduced risk of electrical fires and code violations",
+        "Higher home resale value"
+      ],
+      "process": [
+        {
+          "title": "Inspection & Load Calculation",
+          "description": "We assess your current panel, measure load, and identify any safety issues."
+        },
+        {
+          "title": "Permit & Material Procurement",
+          "description": "We handle all city permits and source high-quality materials."
+        },
+        {
+          "title": "Installation & Testing",
+          "description": "Our team installs the new panel, connects circuits, and tests everything for safe operation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a panel upgrade take?",
+          "answer": "Most residential panel upgrades are completed in 4-8 hours. We work efficiently to minimize downtime."
+        },
+        {
+          "question": "Do I need a permit?",
+          "answer": "Yes, all panel upgrades in Dallas require a permit. We handle the permitting process for you."
+        }
+      ],
+      "slug": "electrical-panel-upgrades"
+    },
+    {
+      "icon": "02",
+      "title": "Whole-Home Surge Protection",
+      "shortDescription": "Protect your electronics and appliances from power surges.",
+      "longDescription": "Lightning strikes, grid switching, and large appliances can cause damaging power surges. Our whole-home surge protectors are installed at your main panel to safeguard all connected devices. We offer both Type 1 and Type 2 surge protection devices (SPDs) from leading manufacturers.",
+      "benefits": [
+        "Protects expensive electronics like TVs, computers, and appliances",
+        "Prevents data loss and equipment damage",
+        "Reduces fire risk from surge-related overheating",
+        "Peace of mind with lifetime warranty on select units"
+      ],
+      "process": [
+        {
+          "title": "Site Evaluation",
+          "description": "We inspect your panel and determine the best surge protection solution for your home."
+        },
+        {
+          "title": "Installation",
+          "description": "We install the SPD at the main panel, properly grounding and bonding the system."
+        },
+        {
+          "title": "Testing & Verification",
+          "description": "We test the unit to ensure it's functioning correctly and provide documentation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Will a surge protector lower my electric bill?",
+          "answer": "No, but it prevents costly damage from surges, saving you money on replacements."
+        },
+        {
+          "question": "How long does installation take?",
+          "answer": "Typically 1-2 hours for a standard installation."
+        }
+      ],
+      "slug": "whole-home-surge-protection"
+    },
+    {
+      "icon": "03",
+      "title": "Ceiling Fan & Lighting Installation",
+      "shortDescription": "Expert installation of ceiling fans, chandeliers, and all lighting fixtures.",
+      "longDescription": "Enhance your home's comfort and style with professional lighting and ceiling fan installation. Our electricians handle everything from simple flush-mount lights to complex chandeliers and smart lighting systems. We ensure proper wiring, support, and code compliance.",
+      "benefits": [
+        "Professional installation ensures safety and longevity",
+        "Wide selection of brands and styles available",
+        "Smart lighting integration with voice control",
+        "Energy-efficient LED options to save on bills"
+      ],
+      "process": [
+        {
+          "title": "Fixture Selection & Consultation",
+          "description": "We help you choose the right fixtures for your space and electrical capacity."
+        },
+        {
+          "title": "Wiring & Mounting",
+          "description": "Our electricians run new wiring if needed and securely mount the fixture."
+        },
+        {
+          "title": "Final Testing & Cleanup",
+          "description": "We test all functions and clean up the work area thoroughly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you install a ceiling fan where there's no existing wiring?",
+          "answer": "Yes, we can run new wiring from the panel or a nearby source to power your fan."
+        },
+        {
+          "question": "Do you install outdoor lighting?",
+          "answer": "Absolutely. We install all types of outdoor lighting, including security lights, landscape lighting, and patio fixtures."
+        }
+      ],
+      "slug": "ceiling-fan-lighting-installation"
+    },
+    {
+      "icon": "04",
+      "title": "Emergency Electrical Repair",
+      "shortDescription": "24/7 emergency service for outages, sparks, and other hazards.",
+      "longDescription": "Electrical emergencies can happen anytime. Our team is on call 24/7 to handle power outages, sparking outlets, exposed wires, and other dangerous situations. We respond quickly to ensure your safety and restore power as fast as possible.",
+      "benefits": [
+        "24/7 availability, including holidays",
+        "Fast response time – average 30 minutes in Dallas",
+        "Licensed electricians with safety training",
+        "Temporary fixes to restore power immediately"
+      ],
+      "process": [
+        {
+          "title": "Emergency Call & Dispatch",
+          "description": "Call our emergency line. We dispatch the nearest available electrician."
+        },
+        {
+          "title": "On-Site Assessment",
+          "description": "We identify the hazard and take immediate steps to secure the area."
+        },
+        {
+          "title": "Repair & Restoration",
+          "description": "We perform the necessary repairs and test the system before leaving."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What qualifies as an electrical emergency?",
+          "answer": "Any situation that poses an immediate safety risk: exposed wires, sparking outlets, burning smells, power outages, or downed power lines."
+        },
+        {
+          "question": "Do you charge extra for emergency calls?",
+          "answer": "Yes, there is a nominal emergency service fee. We'll provide the fee upfront when you call."
+        }
+      ],
+      "slug": "emergency-electrical-repair"
+    }
+  ],
+  "about": {
+    "headline": "Your Trusted Dallas Electricians Since 1998",
+    "mission": "To provide safe, reliable, and affordable electrical services to the Dallas community, with a commitment to integrity, craftsmanship, and customer satisfaction.",
+    "story": [
+      "Full Service Electrician Contractors was founded in 1998 by master electrician John Martinez. Starting with a single truck and a vision to raise the bar for electrical service in Dallas, John built a reputation for honest work and fair pricing. Over the past 25+ years, we've grown into a team of 20+ licensed electricians, serving thousands of residential and commercial clients across the Dallas metro area.",
+      "Our commitment to excellence has earned us a perfect 5.0-star rating and recognition as one of Dallas's top electrical contractors. We invest in ongoing training, cutting-edge tools, and strict safety protocols to ensure every job meets the highest standards. Whether it's a simple repair or a complex new construction project, we treat every home and business like our own."
+    ],
+    "highlight": {
+      "stat": "25+",
+      "label": "Years of Service"
+    },
+    "coreValues": [
+      {
+        "title": "Safety First",
+        "description": "We never compromise on safety. All work is performed to strict code and safety standards."
+      },
+      {
+        "title": "Integrity",
+        "description": "We provide honest advice, transparent pricing, and stand behind our work."
+      },
+      {
+        "title": "Craftsmanship",
+        "description": "Our electricians are skilled tradesmen who take pride in clean, precise work."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Your satisfaction is our priority. We communicate clearly and respect your home."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Ready to start your project? Call us or fill out the form for a free estimate.",
+    "primaryCta": "Call (469) 334-2759",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Highland Park",
+      "University Park",
+      "Lakewood",
+      "Oak Lawn",
+      "Uptown",
+      "Deep Ellum",
+      "Bishop Arts District"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Electrician",
+    "generated_by": "deepseek"
+  },
+  "phone_href": "tel:4693342759",
+  "current_year": 2026
+}
